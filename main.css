@@ -1,0 +1,22 @@
+#logo img {
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+}
+
+#logo {
+    padding: 10%;
+    padding-bottom: 50px;
+}
+
+.searchbox {
+    margin-top: -20px;
+}
+
+.sbf {
+    -moz-box-sizing: border-box;
+    padding: 20px;
+    background: green;
+    max-width: 584px;
+    margin: auto;
+}
