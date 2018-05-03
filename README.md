@@ -1,6 +1,6 @@
-Now It's time to mess around with html/css
+Now It's time to mess around in html/css
 
-May 02 2018 During my Summer Holiday
+at May 02 2018 During my Summer Holiday
 
 Now I've got many html and css skills from The Odin Project
 
