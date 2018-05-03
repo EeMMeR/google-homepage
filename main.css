@@ -15,8 +15,27 @@
 
 .sbf {
     -moz-box-sizing: border-box;
-    padding: 20px;
-    background: green;
-    max-width: 584px;
+    box-sizing: border-box;
+    padding: auto;
+    max-width: 700px;
     margin: auto;
+    border: 1px solid grey;
+}
+#search input {
+    font-size: 1.3em;
+    line-height: 1.2em;
+    border-color: #808080;
+    border-radius: 2px;
+    box-sizing: border-box;
+    max-width: 750px;
+    min-width: 375px;
+    padding: 15px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-left: 10px;
+    padding-right: 25px;
+    vertical-align: middle;
+    width: 100%;
+    border: 1px solid gray;
+    border: medium none;
 }
